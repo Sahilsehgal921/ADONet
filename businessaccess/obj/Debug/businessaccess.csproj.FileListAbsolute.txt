@@ -1,0 +1,11 @@
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\obj\Debug\businessaccess.csprojAssemblyReference.cache
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\obj\Debug\businessaccess.csproj.CoreCompileInputs.cache
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\businessaccess.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\businessaccess.pdb
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\BusinessEnitiy.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\dataaccess.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\BusinessEnitiy.pdb
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\bin\Debug\dataaccess.pdb
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\obj\Debug\businessaccess.csproj.CopyComplete
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\obj\Debug\businessaccess.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\businessaccess\obj\Debug\businessaccess.pdb

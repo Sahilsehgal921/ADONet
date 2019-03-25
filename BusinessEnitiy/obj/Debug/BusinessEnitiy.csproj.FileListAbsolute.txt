@@ -1,0 +1,6 @@
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\bin\Debug\BusinessEnitiy.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\bin\Debug\BusinessEnitiy.pdb
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\obj\Debug\BusinessEnitiy.csprojAssemblyReference.cache
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\obj\Debug\BusinessEnitiy.csproj.CoreCompileInputs.cache
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\obj\Debug\BusinessEnitiy.dll
+C:\Users\Sahil Sehgal\source\repos\Test1ConnectedAdo\BusinessEnitiy\obj\Debug\BusinessEnitiy.pdb
